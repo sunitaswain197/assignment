@@ -1,0 +1,4 @@
+#Thu May 09 12:08:20 IST 2019
+base.0=/home/dell/Desktop/AwesomeProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-i18n] /home/dell/Desktop/AwesomeProject/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.59.5] /home/dell/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/288ae3837683e98508f270b31ed4922f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4183a41534368d7c90de36714d6fa48f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6f27c8d5ad1a5f2138ee37882f090df8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e8c438ca086a59e309c8d9ee2d2abbf3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/75d3e0aecf39d796088bf666008018ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ee559484bb89500addf6a1fee3e41025/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/3bc5aecea11511861ff02c5b9b57068c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ccaed6e0ca7d59dd9874c08c3a6becf7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d657ea91bd9d3341e615227c383f82fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/64332afb5eb289c4515a19441b822982/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e1d3905af1b8a7a9f5d2b945e2f1ebe8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bfb360d86fd521e7d54b36995f4ab538/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/591c241eae2bba5d4cac2eb92df794ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ca0dea0f5dd8d7be1a00f0e5df4c0b59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c2800c21fc5b4b7570c74f5bcf821b42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b3385ec4f899b4536af73db9f9448b08/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b8e6c702bf1dbea6deac79f9f451aaa/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f7853d26656d81de08e9f4dfde31b742/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bb7fb53197999933fc6c2de8922f598a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a38af7e139b3db3921f74b7c11b8150f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c887600056f43636f4c451103c80ec3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2e08cfaca4e39addb616dd3ba9a5ed01/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ea46085a6d16bc689e71791b6b2f7bce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3237dd9110176ac9dd04287b7ee32b88/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8f0708a747ed78b13b48d2c53bbaf0fe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/92b1ae06ce3bdac1b524ee1b6893791d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6e3610c281c80229d8ac3cdf81d0aa67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/88dbf8451811e9d2825378a340aa8bdf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/93fb479332da1788265624dc48b727af/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/de1423fc0cf3ebd1ac2e7245fe7d10d0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/151d0bce4db0fb2a398ddf5f79632995/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/04d5d7fab57ccf7ed1b33ff4ce74a5b6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dell/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2b32d03f33d49504c0146c038f8565f1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/82901dde010756198f6c6104faf816f5/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.5] /home/dell/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/288ae3837683e98508f270b31ed4922f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.5] /home/dell/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/288ae3837683e98508f270b31ed4922f/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b3385ec4f899b4536af73db9f9448b08/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b3385ec4f899b4536af73db9f9448b08/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b8e6c702bf1dbea6deac79f9f451aaa/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b8e6c702bf1dbea6deac79f9f451aaa/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dell/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2b32d03f33d49504c0146c038f8565f1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dell/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2b32d03f33d49504c0146c038f8565f1/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b3385ec4f899b4536af73db9f9448b08/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.awesomeproject.MainActivity
+ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-i18n] /home/dell/Desktop/AwesomeProject/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-i18n] /home/dell/Desktop/AwesomeProject/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.59.5] /home/dell/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/288ae3837683e98508f270b31ed4922f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] /home/dell/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/288ae3837683e98508f270b31ed4922f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4183a41534368d7c90de36714d6fa48f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4183a41534368d7c90de36714d6fa48f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6f27c8d5ad1a5f2138ee37882f090df8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6f27c8d5ad1a5f2138ee37882f090df8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e8c438ca086a59e309c8d9ee2d2abbf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e8c438ca086a59e309c8d9ee2d2abbf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/75d3e0aecf39d796088bf666008018ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/75d3e0aecf39d796088bf666008018ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ee559484bb89500addf6a1fee3e41025/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ee559484bb89500addf6a1fee3e41025/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/3bc5aecea11511861ff02c5b9b57068c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/3bc5aecea11511861ff02c5b9b57068c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ccaed6e0ca7d59dd9874c08c3a6becf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ccaed6e0ca7d59dd9874c08c3a6becf7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d657ea91bd9d3341e615227c383f82fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d657ea91bd9d3341e615227c383f82fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/64332afb5eb289c4515a19441b822982/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/64332afb5eb289c4515a19441b822982/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e1d3905af1b8a7a9f5d2b945e2f1ebe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e1d3905af1b8a7a9f5d2b945e2f1ebe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bfb360d86fd521e7d54b36995f4ab538/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bfb360d86fd521e7d54b36995f4ab538/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/591c241eae2bba5d4cac2eb92df794ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/591c241eae2bba5d4cac2eb92df794ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ca0dea0f5dd8d7be1a00f0e5df4c0b59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ca0dea0f5dd8d7be1a00f0e5df4c0b59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c2800c21fc5b4b7570c74f5bcf821b42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c2800c21fc5b4b7570c74f5bcf821b42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b3385ec4f899b4536af73db9f9448b08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b3385ec4f899b4536af73db9f9448b08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b8e6c702bf1dbea6deac79f9f451aaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b8e6c702bf1dbea6deac79f9f451aaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f7853d26656d81de08e9f4dfde31b742/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f7853d26656d81de08e9f4dfde31b742/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bb7fb53197999933fc6c2de8922f598a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bb7fb53197999933fc6c2de8922f598a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a38af7e139b3db3921f74b7c11b8150f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a38af7e139b3db3921f74b7c11b8150f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c887600056f43636f4c451103c80ec3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c887600056f43636f4c451103c80ec3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2e08cfaca4e39addb616dd3ba9a5ed01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2e08cfaca4e39addb616dd3ba9a5ed01/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ea46085a6d16bc689e71791b6b2f7bce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ea46085a6d16bc689e71791b6b2f7bce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3237dd9110176ac9dd04287b7ee32b88/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3237dd9110176ac9dd04287b7ee32b88/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8f0708a747ed78b13b48d2c53bbaf0fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8f0708a747ed78b13b48d2c53bbaf0fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/92b1ae06ce3bdac1b524ee1b6893791d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/dell/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/92b1ae06ce3bdac1b524ee1b6893791d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6e3610c281c80229d8ac3cdf81d0aa67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/dell/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6e3610c281c80229d8ac3cdf81d0aa67/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/88dbf8451811e9d2825378a340aa8bdf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/88dbf8451811e9d2825378a340aa8bdf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/93fb479332da1788265624dc48b727af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/93fb479332da1788265624dc48b727af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/de1423fc0cf3ebd1ac2e7245fe7d10d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/de1423fc0cf3ebd1ac2e7245fe7d10d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/151d0bce4db0fb2a398ddf5f79632995/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/151d0bce4db0fb2a398ddf5f79632995/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/04d5d7fab57ccf7ed1b33ff4ce74a5b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/04d5d7fab57ccf7ed1b33ff4ce74a5b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dell/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2b32d03f33d49504c0146c038f8565f1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/dell/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2b32d03f33d49504c0146c038f8565f1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/82901dde010756198f6c6104faf816f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/dell/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/82901dde010756198f6c6104faf816f5/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/dell/Desktop/AwesomeProject/android/app/src/debug/AndroidManifest.xml:5:22-75
